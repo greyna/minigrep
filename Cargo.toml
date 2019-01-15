@@ -1,0 +1,7 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+authors = ["greyna <arthur.van-ceulen@greyna.eu>"]
+edition = "2018"
+
+[dependencies]
